@@ -1,0 +1,40 @@
+body {
+  background: #474747 url(http://line25.com/wp-content/uploads/2009/letterpress/demo/bg.png);
+}
+#profile {
+  height: 500px;
+  width: 200px;
+}
+#profile img {
+  clear: both;
+  height: 300px;
+  width: 180px;
+}
+#login {
+  margin-top: 10%;
+  margin-left: 30%;
+  position: fixed;
+}
+#login form {
+  width: 100px;
+  height: 55px;
+}
+#login input {
+  border: solid #121212 2px;
+  border-radius: 2px;
+  height: 20px;
+  background-color: black;
+  color: #2D2D2D;
+}
+#login button {
+  color: #222;
+  text-shadow: 0px 2px 3px #555;
+  background-color: #474747;
+  border: solid #3F3F3F 3px;
+}
+#login label {
+  font: 30px Tahoma, Helvetica, Arial, Sans-Serif;
+  text-align: center;
+  color: #222;
+  text-shadow: 0px 2px 3px #555;
+}
