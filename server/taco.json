@@ -1,0 +1,5 @@
+{
+	"name":"taco",
+	"salsa":["mild", "medium","hot"],
+	"meat":["steak", "chiky", "fich"]
+}

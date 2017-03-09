@@ -27,7 +27,7 @@ app.post('/register', function(req, res){
 	var jsonUser = {"username":pusername, "password":ppassword}
 	users.push(nUser);
 	jUsers.jsonArry.push(jsonUser);
-	res.render('register')
+	res.redirect('/login')
 	console.log(users)
 	console.log("/registerPost:done")
 })

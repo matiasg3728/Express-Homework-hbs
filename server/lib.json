@@ -1,0 +1,19 @@
+{
+
+	"booksList":[
+	{
+		"name":"the hobbit",
+		"author":"J.R.R. Tolkien",
+		"checkedOut":true,
+		"condtition":"shitty"
+	},
+	{
+		"name":"Harry Potter and the sorcerers stone",
+		"author":"J.K. Rowling",
+		"checkedOut":false,
+		"condtition":"good"
+	}
+
+	]
+
+}
